@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TECNO-CG8.mk
+    $(LOCAL_DIR)/twrp_CG8.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TECNO-CG8-user \
-    omni_TECNO-CG8-userdebug \
-    omni_TECNO-CG8-eng
+    twrp_CG8-user \
+    twrp_CG8-userdebug \
+    twrp_CG8-eng
